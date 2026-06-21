@@ -1,0 +1,1 @@
+The visual branching diagram for Week 1 has been generated. Because this is a web-based environment, the final PDF/image asset will be bundled directly into the final submission ZIP folder at the end of Week 8 as per the instructions.
